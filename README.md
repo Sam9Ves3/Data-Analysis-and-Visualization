@@ -1,9 +1,6 @@
 ## Infographic
-![Test Image 3](/Infographic.jpg)
+![Picture](/Infographic.jpg)
 
-![Test Image 4](https://github.com/Sam9Ves3/Data-Analysis---Visualization/blob/master/Infographic.jpg)
-
-[embed]https://github.com/Sam9Ves3/Data-Analysis---Visualization/blob/master/Infographic.pdf[/embed]
 
 ## Python libraries required
 - pandas
@@ -12,8 +9,6 @@
 - seaborn
 - cartopy
 - Geopandas
-
-
 
 
 # Source
