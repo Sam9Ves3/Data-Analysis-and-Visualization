@@ -19,4 +19,5 @@ Take a look at and enjoy it :)
 
 ## Database
 master.csv
+
 Taken from: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
