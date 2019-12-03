@@ -1,7 +1,7 @@
 ## Infographic
-![Test Image 3](/Infographic.pdf)
+![Test Image 3](/Infographic.jpg)
 
-![Test Image 4](https://github.com/Sam9Ves3/Data-Analysis---Visualization/blob/master/Infographic.pdf)
+![Test Image 4](https://github.com/Sam9Ves3/Data-Analysis---Visualization/blob/master/Infographic.jpg)
 
 [embed]https://github.com/Sam9Ves3/Data-Analysis---Visualization/blob/master/Infographic.pdf[/embed]
 
