@@ -3,6 +3,7 @@
 
 ![Test Image 4](https://github.com/Sam9Ves3/Data-Analysis---Visualization/blob/master/Infographic.pdf)
 
+[embed]https://github.com/Sam9Ves3/Data-Analysis---Visualization/blob/master/Infographic.pdf[/embed]
 
 ## Python libraries required
 - pandas
